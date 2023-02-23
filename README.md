@@ -1,21 +1,19 @@
 # Game of NFTs
 
-> Please note that this document is currently in DRAFT STATUS, and will be subject to changes as the event proceeds. We look forward to receiving feedbacks and ideas to help us update and improve this draft, please join [Discord](https://discord.gg/cosmosnetwork) and let us know your feedback in channel `#nft-chat`.
-
 Game of NFTs (GoN) is a program that provides public environments where the Interchain NFT Transfer technology can be extensively tested with community support and innovations can be created pioneeringly.
 
 The program includes two phases:
-- Phase 1 - Public Incentivized Testnets(Register Open)
-- Phase 2 - Hackathon(April 2023)
+- **Phase 1 - Public Incentivized Testnets (Kick off!)**
+- Phase 2 - Hackathon (April 2023)
 
-Phase 1 of GoN is now open for registration and will kick off soon, and we have a number of tasks and rewards scheduled. Rewards will be distributed based on a point system, and allocated to winners who have completed certain tasks and submit an entry for dedicated awards. There will be a series of testing tasks and dedicated awards (more details to come).
+Phase 1 of GoN is now kick off, and we have a number of tasks and rewards scheduled. Rewards will be distributed based on a point system, and allocated to winners who have completed certain tasks and submit an entry for dedicated awards. There will be a series of testing tasks and dedicated awards, please check out more details below and make sure to provide evidence as required for rewards winning.
 
 **Table of Contents**
 
 - [Game of NFTs](#game-of-nfts)
   - [Overview](#overview)
   - [How to Join](#how-to-join)
-  - [Evidence](#evidence)
+  - [Evidence Submission](#evidence-submission)
   - [Timeline](#timeline)
   - [Point System](#point-system)
     - [Tasks](#tasks)
@@ -32,17 +30,16 @@ Through the several rounds, participants are expected to gain knowledge and buil
 
 The testnet infrastructure will include:
 
-- ICS721 SDK chain
-- ICS721 Wasm chain
+- ICS721 SDK & Wasm test chains
 - IBC relayers
 - Support services
 - Faucets
 
 Participants will utilize all GoN testnets for feature-testing, and for completing multiple tasks.
 
-💬 Event coordinators will be available in the [Cosmos Network Discord](https://discord.gg/cosmosnetwork)  #🎨・GAME-OF-NFTS
+💬 Event coordinators will be available in the [Cosmos Network Discord](https://discord.gg/cosmosnetwork)  #🐇┇gon-testnet channel
 
-There will be scoreboard, discord channel, and more supporting services to be provided during the event.
+📍 A leaderboard will be available at https://interchainnfts.dev/gon/scorecard.html
 
 ## How to Join
 
@@ -50,9 +47,13 @@ Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfIhkXzOUTNu5R2cue
 
 After initial screening, participants will be invited to the #🐇┇gon-testnet channel in the Cosmos Discord Server to start coordinating your participation.
 
-## Evidence
+## Evidence Submission
 
 Before you start, please submit qualification evidence according to the guidance provided at [gon-evidence](https://github.com/game-of-nfts/gon-evidence).
+
+After this, participants are required to add each task evidence into their own `Info` sheet in the `evidence.xlsx` file and then submit PRs to `gon-evidence` for verification and scoring.
+
+The award evidence and issue report should also be sumbitted as required in the[gon-evidence](https://github.com/game-of-nfts/gon-evidence)
 
 In order to verify the authenticity of identity, ensure fairness of the game, and protect participants' rights in receiving points and claiming rewards, please make sure to submit evidence as required.
 
