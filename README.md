@@ -53,7 +53,7 @@ Before you start, please submit qualification evidence according to the guidance
 
 After this, participants are required to add each task evidence into their own `Info` sheet in the `evidence.xlsx` file and then submit PRs to `gon-evidence` for verification and scoring.
 
-The award evidence and issue report should also be sumbitted as required in the[gon-evidence](https://github.com/game-of-nfts/gon-evidence)
+The award evidence and issue report should also be sumbitted as required in the [gon-evidence](https://github.com/game-of-nfts/gon-evidence)
 
 In order to verify the authenticity of identity, ensure fairness of the game, and protect participants' rights in receiving points and claiming rewards, please make sure to submit evidence as required.
 
